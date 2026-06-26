@@ -185,7 +185,8 @@ Displays every customer order in a table with Order ID, User ID, product image, 
 
 **Admin Manage Reports (Inquiries)**
 
-![Uploading image.png…]()
+<img width="1920" height="1585" alt="image" src="https://github.com/user-attachments/assets/d88a065f-1793-4848-a768-3702b004a4af" />
+
 
 
 
