@@ -16,9 +16,7 @@
 
 ## What is Velvet Vogue?
 
-Velvet Vogue is a fully functional e-commerce platform built from scratch for a clothing store that specialises in trendy casual wear and formal wear for young adults. The system covers the complete shopping flow — from browsing and filtering products, adding items to cart, completing checkout, to tracking orders — alongside a dedicated admin panel for full backend control of the store.
-
-The project was developed as the coursework submission for **Unit 13: Web Design and Development** of the HND in Computing (Software Engineering) programme at **ESOFT Metro Campus**.
+Velvet Vogue is a fully functional e-commerce platform built from scratch for a clothing store that specialises in trendy casual wear and formal wear for young adults. The system covers the complete shopping flow from browsing and filtering products, adding items to cart, completing checkout, to tracking orders alongside a dedicated admin panel for full backend control of the store.
 
 ---
 
@@ -66,25 +64,37 @@ The project was developed as the coursework submission for **Unit 13: Web Design
 
 **Login Page**
 
-![Login Page](screenshot_login.jpg)
+<img width="935" height="544" alt="image" src="https://github.com/user-attachments/assets/51fe08f5-f3ba-4d2e-9ced-bf0a1161f72a" />
+
 
 The entry point of the system. Accepts a username and password, validates credentials against the database, and redirects users based on their role. Customers go to the home page; admins go to the dashboard. Includes a Forgot Password link and a Sign Up Here link for new users.
 
 **Sign Up Page**
 
-![Sign Up Page](screenshot_signup.jpg)
+<img width="880" height="533" alt="image" src="https://github.com/user-attachments/assets/c4a66e54-f87d-405a-b5e2-155dda814a0b" />
+
 
 Registration form that collects the user's full name, email address, phone number, and password. Input is validated before storing in the `users` table. After successful registration the user is prompted to sign in.
 
 **Home Page**
 
-![Home Page](screenshot_home.jpg)
+<img width="893" height="544" alt="image" src="https://github.com/user-attachments/assets/bacc48c3-668e-4e34-bf17-85c58a29f0f7" />
+<img width="906" height="543" alt="image" src="https://github.com/user-attachments/assets/499b8ea8-65e7-4989-aef0-2032397c4832" />
+<img width="918" height="544" alt="image" src="https://github.com/user-attachments/assets/5690a68c-b7b3-42bf-a87f-80d267b4e566" />
+
+
+
+
 
 The main landing page after login. Features a promotional banner slider with a Shop Now button, a search bar, product cards grouped by Men, Women, and Kids categories, a New Arrivals section, and an Exclusive Items section. The footer displays store services, navigation links, contact details, and social media icons. Clicking Browse All Products navigates to the product categories page.
 
 **Product Categories Page**
 
-![Product Categories](screenshot_product_categories.jpg)
+
+<img width="907" height="544" alt="image" src="https://github.com/user-attachments/assets/540aea9a-4ed7-4492-b4f9-54e2caf36bdf" />
+<img width="910" height="544" alt="image" src="https://github.com/user-attachments/assets/476e37fb-b470-4efb-b6b5-097532e027df" />
+
+
 
 Lists the full product catalogue with a dynamic filter bar at the top. Customers can filter simultaneously by Category, Price sort (high to low or low to high), Colour, Size, and Price Range (0-1000, 1001-2000, 2001-3000, 3001-5000, 5001+ LKR). Each product card shows the image, name, original price, discounted price, and availability status. Hovering over a card reveals the Add to Cart button.
 
