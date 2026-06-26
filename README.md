@@ -100,37 +100,58 @@ Lists the full product catalogue with a dynamic filter bar at the top. Customers
 
 **Product Detail Page**
 
-![Product Detail](screenshot_product_detail.jpg)
+<img width="904" height="543" alt="image" src="https://github.com/user-attachments/assets/19a41b9e-2d13-45c8-8c5f-5f9621a39d02" />
+<img width="914" height="544" alt="image" src="https://github.com/user-attachments/assets/a23cd722-4bcf-4795-b22c-c02a361cba17" />
+<img width="908" height="544" alt="image" src="https://github.com/user-attachments/assets/92466e60-0ddb-4dec-bf1b-292e5bf59927" />
+
+
+
 
 Opened when a customer clicks on any product. Displays the full product image, name, price, description, available sizes (S, M, L, XL), available colours as colour swatches, stock availability, and category. Selecting more than one size or colour at once triggers a validation alert. Attempting to add to cart without selecting size and colour also triggers an alert. After valid selection, Add to Cart saves the item and redirects to the cart page. A Related Products carousel below suggests other items from the same category.
 
 **My Cart Page**
 
-![My Cart](screenshot_cart.jpg)
+<img width="910" height="543" alt="image" src="https://github.com/user-attachments/assets/0761118e-9807-4af8-96da-46b522f318b1" />
+<img width="902" height="540" alt="image" src="https://github.com/user-attachments/assets/e5cc8bb2-1b6a-40eb-af2a-5064c740dd05" />
+
 
 A table listing all products added to cart, showing product image, product name, selected size, unit price, and line total. Each row has a Delete button for removing unwanted items. The cart total is displayed below the table. A Proceed to Checkout button moves the customer forward in the flow.
 
 **Checkout Page**
 
-![Checkout](screenshot_checkout.jpg)
+<img width="907" height="586" alt="image" src="https://github.com/user-attachments/assets/7c2f9eb0-1bac-4c25-9aa2-d74180b4fd34" />
+<img width="947" height="522" alt="image" src="https://github.com/user-attachments/assets/5461cf20-2e3f-44cb-be13-bf75decbb48c" />
+
+
 
 Summarises the full order with product image, name, price, editable quantity field, and line total. The total price recalculates automatically using JavaScript when any quantity is changed. Customers select their payment method from a dropdown (Credit Card or Cash on Delivery) and click Complete Purchase to place the order. A Track Your Order button appears after the order is confirmed.
 
 **Track Order Page**
 
-![Track Order](screenshot_track_order.jpg)
+<img width="914" height="544" alt="image" src="https://github.com/user-attachments/assets/22c60a03-27d4-4a93-9cd6-13ecc918ce24" />
+
+
 
 Displays the customer's order history as a list of order cards. Each entry shows the product image, product name, unit price, quantity, order date, and current status. The status is set and updated by the admin from the Manage Orders panel and reflects here in real time. Customers can remove entries from their history using the Remove button.
 
 **Inquiry Page**
 
-![Inquiry](screenshot_inquiry.jpg)
+<img width="946" height="538" alt="image" src="https://github.com/user-attachments/assets/349d7faf-d544-40e2-9467-4ab995f4dff9" />
+<img width="947" height="542" alt="image" src="https://github.com/user-attachments/assets/4f9e1bfd-4352-40f7-b07b-d31ead06419e" />
+<img width="980" height="553" alt="image" src="https://github.com/user-attachments/assets/586b4147-a94f-4493-bffd-9c44f0b2be63" />
+
+
+
 
 A support form where customers can submit concerns about their orders or any other issues. Fields include Email, Phone Number, Address, and a Description text area. Submitted inquiries appear in a history table below the form, alongside the admin's reply. Customers can also delete their own inquiry records.
 
 **My Profile Page**
 
-![My Profile](screenshot_profile.jpg)
+<img width="946" height="531" alt="image" src="https://github.com/user-attachments/assets/0c6619ae-9cea-4b3e-b381-004efc19d509" />
+<img width="771" height="544" alt="image" src="https://github.com/user-attachments/assets/015d2f7d-ddd3-4b97-b1da-0c54ccd9d77c" />
+
+
+
 
 Shows the logged-in customer's registered details (username, email, phone number) pulled from the database. Below that, a shipping details form lets customers enter or update their delivery address. All changes are saved with the Update Profile and Shipping Details button.
 
@@ -140,25 +161,32 @@ Shows the logged-in customer's registered details (username, email, phone number
 
 **Admin Dashboard**
 
-![Admin Dashboard](screenshot_admin_dashboard.jpg)
+<img width="904" height="544" alt="image" src="https://github.com/user-attachments/assets/3217729c-b13f-41ee-ae40-b0f6ab94b93a" />
+
 
 The control centre for store administrators. After admin login, this page greets the admin with a Welcome Back Admin banner and provides quick-access buttons for Manage Product, Manage Order, Reports, and Log Out. The top navigation bar mirrors the same options.
 
 **Admin Manage Products**
 
-![Admin Manage Products](screenshot_admin_products.jpg)
+<img width="904" height="544" alt="image" src="https://github.com/user-attachments/assets/b7977a66-ca1e-44df-b17b-21e0eb33aa01" />
+<img width="917" height="544" alt="image" src="https://github.com/user-attachments/assets/1e2ab263-caad-4757-8d76-a1238a881c27" />
+
+
 
 Provides the full product management interface. The top section is a form for adding new products with fields for Product ID, Category, Product Name, Description, Price, Discount Price (optional), Availability status, Sizes (checkboxes for S, M, L, XL), Available Colours (colour pickers), and an image file upload. Submit saves to the database; Clear resets the form. Below the form, a product table shows all existing products with all their details. A Category filter dropdown narrows the table. Each row has an Edit button (opens a pre-filled update form) and a Delete button (removes the product from the database).
 
 **Admin Manage Orders**
 
-![Admin Manage Orders](screenshot_admin_orders.jpg)
+<img width="905" height="544" alt="image" src="https://github.com/user-attachments/assets/ef69bd59-869f-4af7-ad15-2a0ad64dcaeb" />
 
 Displays every customer order in a table with Order ID, User ID, product image, Product Name, Price, Quantity, Total Price, current Status, and an Update button. The admin selects a new status from the dropdown (Pending, On Process, Delivered) and clicks Update to save. The change immediately appears on the customer's Track Order page, keeping the customer informed without any manual notification.
 
 **Admin Manage Reports (Inquiries)**
 
-![Admin Manage Reports](screenshot_admin_reports.jpg)
+<img width="583" height="347" alt="image" src="https://github.com/user-attachments/assets/62c6eb2b-5016-432e-a839-2aaca6763193" />
+<img width="591" height="347" alt="image" src="https://github.com/user-attachments/assets/02471af4-b14e-4cb2-a819-d0bb6f4d7041" />
+
+
 
 Lists all inquiries submitted by customers, showing their Email, Phone Number, Address, and the full Description of their issue. Each row has a reply text area where the admin types a response and an Update Reply button to save it. Once submitted, the reply appears on the customer's Inquiry history page under the matching inquiry entry.
 
