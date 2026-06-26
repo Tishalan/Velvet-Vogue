@@ -78,8 +78,7 @@ Registration form that collects the user's full name, email address, phone numbe
 
 **Home Page**
 
-<img width="1920" height="3681" alt="image" src="https://github.com/user-attachments/assets/38c5e7eb-1e4f-4681-9150-ff0e7b365a10" />
-
+<img width="1920" height="3681" alt="image" src="https://github.com/user-attachments/assets/f23a5233-0bf6-4aea-bc9f-2ad0cf9ddfce" />
 
 
 
@@ -90,8 +89,8 @@ The main landing page after login. Features a promotional banner slider with a S
 **Product Categories Page**
 
 
-<img width="907" height="544" alt="image" src="https://github.com/user-attachments/assets/540aea9a-4ed7-4492-b4f9-54e2caf36bdf" />
-<img width="910" height="544" alt="image" src="https://github.com/user-attachments/assets/476e37fb-b470-4efb-b6b5-097532e027df" />
+<img width="1920" height="3986" alt="image" src="https://github.com/user-attachments/assets/88cb6a58-9e65-4ced-b590-e99caace1126" />
+
 
 
 
@@ -99,9 +98,8 @@ Lists the full product catalogue with a dynamic filter bar at the top. Customers
 
 **Product Detail Page**
 
-<img width="904" height="543" alt="image" src="https://github.com/user-attachments/assets/19a41b9e-2d13-45c8-8c5f-5f9621a39d02" />
-<img width="914" height="544" alt="image" src="https://github.com/user-attachments/assets/a23cd722-4bcf-4795-b22c-c02a361cba17" />
-<img width="908" height="544" alt="image" src="https://github.com/user-attachments/assets/92466e60-0ddb-4dec-bf1b-292e5bf59927" />
+<img width="1920" height="2206" alt="image" src="https://github.com/user-attachments/assets/8153ae77-e69a-49d0-b6f6-719b4f2494f0" />
+
 
 
 
@@ -110,16 +108,16 @@ Opened when a customer clicks on any product. Displays the full product image, n
 
 **My Cart Page**
 
-<img width="910" height="543" alt="image" src="https://github.com/user-attachments/assets/0761118e-9807-4af8-96da-46b522f318b1" />
-<img width="902" height="540" alt="image" src="https://github.com/user-attachments/assets/e5cc8bb2-1b6a-40eb-af2a-5064c740dd05" />
+<img width="1920" height="1660" alt="image" src="https://github.com/user-attachments/assets/02ab47cf-29aa-4409-9de8-ff50274b961f" />
+
 
 
 A table listing all products added to cart, showing product image, product name, selected size, unit price, and line total. Each row has a Delete button for removing unwanted items. The cart total is displayed below the table. A Proceed to Checkout button moves the customer forward in the flow.
 
 **Checkout Page**
 
-<img width="907" height="586" alt="image" src="https://github.com/user-attachments/assets/7c2f9eb0-1bac-4c25-9aa2-d74180b4fd34" />
-<img width="947" height="522" alt="image" src="https://github.com/user-attachments/assets/5461cf20-2e3f-44cb-be13-bf75decbb48c" />
+<img width="1920" height="1768" alt="image" src="https://github.com/user-attachments/assets/b0be1852-8787-42e6-8682-d1f6b6ed7aeb" />
+
 
 
 
