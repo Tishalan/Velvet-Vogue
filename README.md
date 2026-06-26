@@ -78,9 +78,8 @@ Registration form that collects the user's full name, email address, phone numbe
 
 **Home Page**
 
-<img width="893" height="544" alt="image" src="https://github.com/user-attachments/assets/bacc48c3-668e-4e34-bf17-85c58a29f0f7" />
-<img width="906" height="543" alt="image" src="https://github.com/user-attachments/assets/499b8ea8-65e7-4989-aef0-2032397c4832" />
-<img width="918" height="544" alt="image" src="https://github.com/user-attachments/assets/5690a68c-b7b3-42bf-a87f-80d267b4e566" />
+<img width="1920" height="3681" alt="image" src="https://github.com/user-attachments/assets/38c5e7eb-1e4f-4681-9150-ff0e7b365a10" />
+
 
 
 
