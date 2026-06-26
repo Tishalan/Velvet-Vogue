@@ -64,14 +64,16 @@ Velvet Vogue is a fully functional e-commerce platform built from scratch for a 
 
 **Login Page**
 
-<img width="935" height="544" alt="image" src="https://github.com/user-attachments/assets/51fe08f5-f3ba-4d2e-9ced-bf0a1161f72a" />
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/4494cff9-b1db-4bed-a91f-36889df2a54c" />
+
 
 
 The entry point of the system. Accepts a username and password, validates credentials against the database, and redirects users based on their role. Customers go to the home page; admins go to the dashboard. Includes a Forgot Password link and a Sign Up Here link for new users.
 
 **Sign Up Page**
 
-<img width="880" height="533" alt="image" src="https://github.com/user-attachments/assets/c4a66e54-f87d-405a-b5e2-155dda814a0b" />
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/995ad0bb-9802-4dfc-99e5-d79db6ccc634" />
+
 
 
 Registration form that collects the user's full name, email address, phone number, and password. Input is validated before storing in the `users` table. After successful registration the user is prompted to sign in.
@@ -125,7 +127,8 @@ Summarises the full order with product image, name, price, editable quantity fie
 
 **Track Order Page**
 
-<img width="914" height="544" alt="image" src="https://github.com/user-attachments/assets/22c60a03-27d4-4a93-9cd6-13ecc918ce24" />
+<img width="1535" height="876" alt="image" src="https://github.com/user-attachments/assets/5f8dc304-90ac-4cc2-8176-3889c13e70da" />
+
 
 
 
@@ -133,9 +136,9 @@ Displays the customer's order history as a list of order cards. Each entry shows
 
 **Inquiry Page**
 
-<img width="946" height="538" alt="image" src="https://github.com/user-attachments/assets/349d7faf-d544-40e2-9467-4ab995f4dff9" />
-<img width="947" height="542" alt="image" src="https://github.com/user-attachments/assets/4f9e1bfd-4352-40f7-b07b-d31ead06419e" />
-<img width="980" height="553" alt="image" src="https://github.com/user-attachments/assets/586b4147-a94f-4493-bffd-9c44f0b2be63" />
+<img width="1920" height="2400" alt="image" src="https://github.com/user-attachments/assets/34394d14-ea8d-484d-92fe-57cfb56b8c5b" />
+
+
 
 
 
@@ -144,8 +147,8 @@ A support form where customers can submit concerns about their orders or any oth
 
 **My Profile Page**
 
-<img width="946" height="531" alt="image" src="https://github.com/user-attachments/assets/0c6619ae-9cea-4b3e-b381-004efc19d509" />
-<img width="771" height="544" alt="image" src="https://github.com/user-attachments/assets/015d2f7d-ddd3-4b97-b1da-0c54ccd9d77c" />
+<img width="1920" height="2507" alt="image" src="https://github.com/user-attachments/assets/f4b842e9-3a2b-4054-be19-6fd86729ac1f" />
+
 
 
 
@@ -158,15 +161,16 @@ Shows the logged-in customer's registered details (username, email, phone number
 
 **Admin Dashboard**
 
-<img width="904" height="544" alt="image" src="https://github.com/user-attachments/assets/3217729c-b13f-41ee-ae40-b0f6ab94b93a" />
+<img width="1920" height="1367" alt="image" src="https://github.com/user-attachments/assets/bfbbacd4-4a68-4c1c-bd84-e8bdc9b31296" />
+
 
 
 The control centre for store administrators. After admin login, this page greets the admin with a Welcome Back Admin banner and provides quick-access buttons for Manage Product, Manage Order, Reports, and Log Out. The top navigation bar mirrors the same options.
 
 **Admin Manage Products**
 
-<img width="904" height="544" alt="image" src="https://github.com/user-attachments/assets/b7977a66-ca1e-44df-b17b-21e0eb33aa01" />
-<img width="917" height="544" alt="image" src="https://github.com/user-attachments/assets/1e2ab263-caad-4757-8d76-a1238a881c27" />
+<img width="1920" height="2760" alt="image" src="https://github.com/user-attachments/assets/e7c3f605-3c13-4519-b97b-821035086bab" />
+
 
 
 
@@ -174,14 +178,15 @@ Provides the full product management interface. The top section is a form for ad
 
 **Admin Manage Orders**
 
-<img width="905" height="544" alt="image" src="https://github.com/user-attachments/assets/ef69bd59-869f-4af7-ad15-2a0ad64dcaeb" />
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/941737fd-98a5-40df-94bc-680d9ddecc3b" />
+
 
 Displays every customer order in a table with Order ID, User ID, product image, Product Name, Price, Quantity, Total Price, current Status, and an Update button. The admin selects a new status from the dropdown (Pending, On Process, Delivered) and clicks Update to save. The change immediately appears on the customer's Track Order page, keeping the customer informed without any manual notification.
 
 **Admin Manage Reports (Inquiries)**
 
-<img width="583" height="347" alt="image" src="https://github.com/user-attachments/assets/62c6eb2b-5016-432e-a839-2aaca6763193" />
-<img width="591" height="347" alt="image" src="https://github.com/user-attachments/assets/02471af4-b14e-4cb2-a819-d0bb6f4d7041" />
+![Uploading image.png…]()
+
 
 
 
